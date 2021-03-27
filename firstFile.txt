@@ -1,2 +1,5 @@
-This is my first file
-adding more content!!
+This is my first file that i added to my project.
+2nd line added to first file
+
+Middel line change
+adding 5th line after staging

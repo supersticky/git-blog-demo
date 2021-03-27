@@ -1,0 +1,5 @@
+This is my third file that I added to my project
+
+Git is really useful.
+Git is tracking changes to files that aren't really changes.
+line 5 added only
